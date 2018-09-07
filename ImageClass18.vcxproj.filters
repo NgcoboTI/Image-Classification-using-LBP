@@ -18,5 +18,8 @@
     <ClCompile Include="ImageClass.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="..\..\..\Documents\Visual Studio 2015\Projects\Image Classification\Image Classification.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
